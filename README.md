@@ -39,12 +39,6 @@ Before we run the project, make sure that you are having MongoDB in your local s
 ## Deployment Archietecture
 ![image](https://user-images.githubusercontent.com/57321948/193536973-4530fe7d-5509-4609-bfd2-cd702fc82423.png)
 
-![Training Pipeline](https://github.com/sMathujan/sensor-fault-detection/blob/main/0_Sensor Training Pipeline.png?raw=true)
 
-![image](flowcharts/0_Sensor Training Pipeline.svg)
-![image](flowcharts/0_Sensor Training Pipeline.png)
-
-<img src="flowcharts/0_Sensor Training Pipeline.svg" width="128"/>
-<img src="flowcharts/0_Sensor Training Pipeline.png" width="1200" height="400"/>
 
 
