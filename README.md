@@ -41,6 +41,6 @@ Before we run the project, make sure that you are having MongoDB in your local s
 
 ![Training Pipeline](https://github.com/sMathujan/sensor-fault-detection/blob/main/0_Sensor Training Pipeline.png?raw=true)
 
-
+![image](flowcharts\0_Sensor Training Pipeline.png)
 
 
